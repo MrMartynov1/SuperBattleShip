@@ -1,0 +1,64 @@
+﻿https://exceptionnotfound.net/modeling-battleship-in-csharp-components-and-setup/
+
+British Empire
+DD - HMS Pathfinder
+SS - HMS Alliance
+CA - HMS Edinburgh
+BB - HMS Hood
+CV - HMS Victorious
+
+USA
+DD - USS Allen M. Sumner
+SS - USS Grenadier
+CA - USS St. Louis
+BB - USS Iowa
+CV - USS Intrepid
+
+China
+DD - Fuzhou
+SS - Type 03
+CA - Chung King
+BB - Mao Zedong
+CV - Liaoning
+
+Russia
+DD - Minsk
+SS - Kursk
+CA - Kirov
+BB - Sevastopol
+CV - Admiral Kuznetsov
+
+Italy
+DD - Alfredo Oriani
+SS - Acciaio
+CA - Zara
+BB - Vittorio Veneto
+CV - Aquila
+
+Japan
+DD - Kagerō
+SS - I-16
+CA - Suzuya
+BB - IJN Yamato
+CV - IJN Hiryū
+
+France
+DD - Le Fantasque
+SS - Surcouf
+CA - Foch
+BB - Richelieu
+CV - Clemenceau
+
+Germany
+DD - Lütjens
+SS - U-11
+CA - Admiral Hipper
+BB - Bismarck
+CV - Graf Zeppelin
+
+Finland
+DD - Hamina
+SS - Vetehinen
+CA - Ilmarinen
+BB - Finlandia
+CV - Fennoskandia
